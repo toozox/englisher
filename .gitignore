@@ -3,4 +3,5 @@ sys
 time
 /__pycache__
 /acash/*.mp3
-/data
+/data/*
+!/data/.keepme
